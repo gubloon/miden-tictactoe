@@ -20,5 +20,13 @@ v1
 v2
 - Create new Accounts
 - Get tokens from faucet
+- Create a new board
 - Players make moves
 - Loser sends 50 tokens to Winner
+
+v3
+- Create new Accounts
+- Get tokens from faucet
+- Create a new board
+- Players make moves
+- Loser sends 50 tokens to Winner with RPFID
